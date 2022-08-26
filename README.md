@@ -6,5 +6,5 @@ Para carregar o script digite ./script_web_apache.sh
 
 Para testar a aplicação, primeiro digite o comando "ip a" sem aspas no terminal do seu servidor linux, para descobrir o ip do servidor.
 
-Feito isso basta digita o ip em seu navegador e carregar a aplicação.
+Feito isso basta digitar o ip em seu navegador e carregar a aplicação.
 
